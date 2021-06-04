@@ -1,3 +1,4 @@
+>>>>>>
 yo estoy NetAcad DEVASC 
 estoy empezando a entender git
 esta es una nueva rama
